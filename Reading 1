@@ -1,0 +1,27 @@
+Reading 1 Bob Keijzers 11201800
+
+http://www.monitorarbeid.tno.nl/cijfers/visualisaties/werkkenmerken-naar-regio/werkkenmerken-naar-regio
+
+
+I: The dataset used fort his visualisation contains the hours worked per hour, the kind of contract, risk of loss of job and some variables concerning health and ‘work and home’-situation. The map uses a color scale ranging from light til dark blue. The dark areas have a higher amount of working hours per week, the lighter areas have a lower amount of working hours. The work characteristic can be changed in the bottom left menu. 
+
+The interactive map of the Netherlands can be clicked to view the data of districts, regions and city level. When clicked, a menu with the data of the area appears on the right. The absolute value of the 9 variables is been shown and also the relative value in the categories low medium and high, using the same color scale.
+
+II:Value:
+This visualisation uses two color scales. The map of the Netherlands shows the amount of working hours, using  3 shades of blue. This gives a fast and clear information about where the working hours is high and low. If without reading the caption, it is obvious that a darker shade means a higher amount of working hours. However with only 3 shades, the information that can be derived from the image is limited. A map with more shades would give more detailed information.
+The same color shades are used in the menu on the right. The orange plane with the white cross shows which category is accurate. The 3 category are, again, low medium and high. The color scale does add much here, in contrast to the prior color scale. Denominating low medium and high under the score tab and leaving the planes (expect the appriorate one which would still be orange) white would be nicer for user to read. This also limited to amount of used colors which makes it more clear.
+Size: The areas on the map have different sizes because they portrait different geographical regions, however some areas represents towns and other regions or districts. This makes comparison harder. For example it is not possible to directly compare districts with one another, or city with one another. This lowers the compairability of the data. It is also more difficult to interpret data on the map, because some areas are small and not clearly lined.
+
+Conclusion: The data is selective, because the data of each area can be viewed individually.
+The associative part of the data is present due to the color scale. The 3 shades let the user group the areas into 3 categories.
+The data is quantitative, due to the absolute values presents in the right menu.
+
+
+III: Not entirely. While any visual represention can be regarded as art. The functional purpose or goal of the visualisation, giving information to be user is always most important. Ofcourse, when making somehting visual, why not make it look nice. The same is true for a headquarter of a company or a living room. Any visual object can be regarded as art, so in my opinion calling visual data representations functional art is not necessarily false, but it is not a term that should be used.
+
+IV: The goal of the visualisation is giving the user information about characteristics of work. When an area is clicked, different absolute values of the variables are been shown, also their relative value compared to the other areas. Clearly presenting variables of each area was definitely a goal of the maker.
+The map of the Netherlands and the different color shades are comparison possible, however only 3 shades are been used, so comparison doesn’t provide very detailed information. It is also not possible to display the absolute values of the variables from different region together. Making comparison possible was clearly a goal of the maker, but only on a basic level.
+Organizing the data is not possible within the model. You could ofcourse copy the data of the regions into a different file to write them down to organize them, but the visualisation doesn’t provide a tool to do this within the model.
+The same is true for calculating correlations. Ofcourse this can be done once the data is all copied to a different file, but the maker didn’t include a tool within the model to do this.
+
+In conclusion, expanding this model and making organzing, ranking and calculating correlations would be useful.
