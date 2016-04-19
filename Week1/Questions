@@ -1,0 +1,11 @@
+/*
+Bob Keijzers 11201800
+Questions part 1
+
+I:   ==/=== both are 'equal to' operator
+II:  Closure refers to variables that is being remembered even outside of the function in which it was created
+III: Higher order functions - functions that operate on other functions by taking them as argument or by returning them
+IV:  Query selector - Function that return the first item in the query that matches the selected item
+        Example: obtaining the first <p>: document.querySelector("p");
+                 
+*/
