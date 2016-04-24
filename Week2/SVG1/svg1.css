@@ -1,0 +1,24 @@
+/* <!-- Data Processing week 2 SVG1
+Bob Keijzers 11201800 -->*/
+
+ /*continent color */
+.continent
+{
+  
+}
+
+/* country colors */
+#swe
+{
+  fill: red; 
+}
+
+#rsa
+{
+  fill: blue;
+}
+
+#ita
+{
+	fill: yellow;
+}
