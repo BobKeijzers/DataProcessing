@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF8">
+      <title>Population Growth in European countries in 2014</title>
+      <script src=d3lib.js></script>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+      <script src="node_modules/datamaps/dist/datamaps.world.min.js"></script>
+      <script src=d3libmap.js></script>
+      <script src="http://datamaps.github.com/scripts/datamaps-all.js"></script>
+      <script src=d3LinkedViews.js></script>
+      <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+
+      <link rel="stylesheet" type="text/css" href="d3LinkedViews.css">
+    </head>
+    <body>
+      <h1>Linked Views</h1>
+      <div id="container1" style="position: relative; width: 600px; height: 360px;"></div>
+      <div id="sliderAmount"></div>
+      <input type="range" name="year" id="slide" value="2013" min="2013" max="2015" step="1" onchange="updateSlider(this.value)">
+      <div id="barchart" style="width:600px; height:500px"></div>
+    </body>
+</html>
